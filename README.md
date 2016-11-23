@@ -9,6 +9,11 @@ Step to run pom.xml by cmd line
 3.This wil build the project
 >mvn intall
 
+
+
+
+
+
 Step to Github repository 
 1.This command will change the project directory where is it located
 >$ cd c:/preetish/shipping
