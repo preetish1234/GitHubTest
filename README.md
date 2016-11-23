@@ -1,5 +1,7 @@
 # Github Login TestCase Step to run by Cmd 
+
 Step to run pom.xml by cmd line
+
 1. This wil change the directory of the project wer it is located  
 >cd c:/preetish/shipping
 
@@ -15,6 +17,7 @@ Step to run pom.xml by cmd line
 
 
 Step to Github repository 
+
 1.This command will change the project directory where is it located
 >$ cd c:/preetish/shipping
 
