@@ -2,7 +2,7 @@
 
 Step to run pom.xml by cmd line
 
-1. This wil change the directory of the project wer it is located  
+1.This wil change the directory of the project wer it is located  
 >cd c:/preetish/shipping
 
 2.This wil clean
